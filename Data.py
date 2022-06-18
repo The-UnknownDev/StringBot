@@ -52,7 +52,7 @@ Managed By @TheByteBots
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to retrieve pyrograms and telethon string sessions by @nouseridfound
+A telegram bot to retrieve pyrograms and telethon string sessions by @Arpit_Chaurasiya
 
 Group Support : [Byte Bots Support](https://t.me/ByteBotsSupport)
 
