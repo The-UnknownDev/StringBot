@@ -11,7 +11,7 @@ If you don't trust this bot,
 2) block bot or delete chat
 
 This Bot Works To Help You Get Session String Via Bot. Recommendations If You Want To Take String Use Another Account,
-Managed By @nouseridfound
+Managed By @TheByteBots
     """
 
     # Home Button
@@ -27,12 +27,12 @@ Managed By @nouseridfound
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("Start Generating Session", callback_data="generate")],
-        [InlineKeyboardButton("Maintaned By", url="https://t.me/nouseridfound")],
+        [InlineKeyboardButton("Maintaned By", url="https://t.me/TheByteBots")],
         [
             InlineKeyboardButton("How to use me", callback_data="help"),
             InlineKeyboardButton("About", callback_data="about")
       ],
-        [InlineKeyboardButton("Other bot info", url="https://t.me/nouseridfound")],
+        [InlineKeyboardButton("Other bot info", url="https://t.me/TheByteBots")],
     ]
 
 
@@ -54,11 +54,11 @@ Managed By @nouseridfound
 
 A telegram bot to retrieve pyrograms and telethon string sessions by @nouseridfound
 
-Group Support : [Gabung](https://t.me/br29siwan)
+Group Support : [Byte Bots Support](https://t.me/ByteBotsSupport)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @nouseridfound
+Developer : @Arpit_Chaurasiya
     """
